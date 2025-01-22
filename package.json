@@ -1,7 +1,7 @@
 {
-    "name": "qudeai-framework",
+    "name": "ai-agent-framework",
     "version": "1.0.0",
-    "description": "qudeai agent framework",
+    "description": "AI agent framework",
     "type": "module",
     "main": "src/defineagent.ts",
     "scripts": {
